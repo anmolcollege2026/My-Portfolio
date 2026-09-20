@@ -1,0 +1,2 @@
+cd "C:\Users\Anmol Verma\OneDrive\Desktop\portfolio\portfolio antigravity"
+npm run dev
